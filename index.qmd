@@ -1,0 +1,57 @@
+---
+title: "Divyanshu Sharma | MBA Portfolio"
+format: html
+theme: cosmo
+---
+
+# Divyanshu Sharma
+
+*MBA Candidate \| Revenew Growth Strategiest \| B2B Sales Enthusiast*
+
+------------------------------------------------------------------------
+
+## About Me
+
+I am a results-oriented MBA student with a proven background in SaaS based sales, retail operations, and HR tech implementation. Passionate about leadership, equity in business, and strategic growth, I bring a unique blend of customer-facing experience and behind-the-scenes operational insight. I’m currently enhancing my skills in data analytics, project management, and organizational leadership.
+
+## Education
+
+**Master of Business Administration (MBA)**\
+University Canada West, Canada\
+Expected Graduation: September 2025
+
+**Bachelor of Commerce**\
+Graphic Era Deemed University, India\
+Graduated: June 2021
+
+## Professional Experience
+
+**Sales Associate – 7-Eleven & Broadway Mini-Mart**\
+- Handled lottery, courier, and cash duties.\
+- Provided customer service and managed product deliveries.
+
+\- Developed strong Interpersonal, multi-tasking and conflict resolution skills.
+
+**Development Executive – PulseHRM**\
+- Sold and implemented SaaS-based HR software.\
+- Worked on payroll data, client demos, and support.
+
+\- Collaborated with Developement team and clients to manage change in the existing software module and ensure timely delivery.
+
+\- Cold calling, Demo scheduling, lead conversion were part of my role.
+
+## Projects
+
+\- Played a key role in the Development of the Performance Management Module of HRM software called PulseHRM (<https://pulsehrm.com/about-pulsehrm/>). My role was to collect data and insights from 25 existing clients of Evam Tech Labs by talking to their managers, stakeholders, and HR executives. As their vendor, I was fortunate to analzse their HR Data too. I concluded that every client will have different standards for KPI and KRA, so we should open the window for customization. As a Customer representative, I convinced new clients to adopt our KPI and KRA standards.
+
+## Key Skills
+
+-   SaaS Tools (HubSpot, Asana, JIRA)\
+-   Payroll & Data Accuracy\
+-   MS Excel, Markdown, Client Relations\
+-   Cross-cultural Communication
+
+## Contact
+
+📧 divyanshusddn\@gmail.com\
+🌐 www.linkedin.com/in/divyanshu-sharma-960680132
