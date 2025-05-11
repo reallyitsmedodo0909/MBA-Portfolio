@@ -1,8 +1,12 @@
 ---
-title: "Divyanshu Sharma | MBA Portfolio"
+title:  "Portfolio"
 format: html
-theme: cosmo
+theme: darkly
+css: custom.css
+search : true
 ---
+
+![](WhatsApp%20Image%202025-05-10%20at%2020.03.25_b64e89e6.jpg){fig-align="left" style="Circle" width="143"}
 
 # Divyanshu Sharma
 
@@ -10,11 +14,11 @@ theme: cosmo
 
 ------------------------------------------------------------------------
 
-## About Me
+## 🙋‍♂️About Me
 
 I am a results-oriented MBA student with a proven background in SaaS based sales, retail operations, and HR tech implementation. Passionate about leadership, equity in business, and strategic growth, I bring a unique blend of customer-facing experience and behind-the-scenes operational insight. I’m currently enhancing my skills in data analytics, project management, and organizational leadership.
 
-## Education
+## 🎓Education
 
 **Master of Business Administration (MBA)**\
 University Canada West, Canada\
@@ -24,7 +28,7 @@ Expected Graduation: September 2025
 Graphic Era Deemed University, India\
 Graduated: June 2021
 
-## Professional Experience
+## 💼Professional Experience
 
 **Sales Associate – 7-Eleven & Broadway Mini-Mart**\
 - Handled lottery, courier, and cash duties.\
@@ -40,18 +44,21 @@ Graduated: June 2021
 
 \- Cold calling, Demo scheduling, lead conversion were part of my role.
 
-## Projects
+## 📁Projects
 
 \- Played a key role in the Development of the Performance Management Module of HRM software called PulseHRM (<https://pulsehrm.com/about-pulsehrm/>). My role was to collect data and insights from 25 existing clients of Evam Tech Labs by talking to their managers, stakeholders, and HR executives. As their vendor, I was fortunate to analzse their HR Data too. I concluded that every client will have different standards for KPI and KRA, so we should open the window for customization. As a Customer representative, I convinced new clients to adopt our KPI and KRA standards.
 
-## Key Skills
+## 🛠️ Key Skills
 
 -   SaaS Tools (HubSpot, Asana, JIRA)\
 -   Payroll & Data Accuracy\
 -   MS Excel, Markdown, Client Relations\
 -   Cross-cultural Communication
 
-## Contact
+## 📞 Contact Me
 
-📧 divyanshusddn\@gmail.com\
+📧 divyanshusddn\@gmail.com
+
+📞+1 (604) 499 1349
+
 🌐 www.linkedin.com/in/divyanshu-sharma-960680132
