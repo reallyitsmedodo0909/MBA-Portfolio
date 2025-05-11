@@ -3,7 +3,6 @@ title:  "Portfolio"
 format: html
 theme: darkly
 css: custom.css
-search : true
 ---
 
 ![](WhatsApp%20Image%202025-05-10%20at%2020.03.25_b64e89e6.jpg){fig-align="left" style="Circle" width="143"}
